@@ -149,7 +149,7 @@ For detailed debugging and assistance, refer to the Remix documentation or commu
 
 ## Authors
 - **Rohit**
-  - GitHub: [NICxKMS](https://github.com/spiritcoder.666)
+  - GitHub: [spiritcoder.666](https://github.com/spiritcoder.666)
  
 
 ## License

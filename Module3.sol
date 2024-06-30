@@ -21,7 +21,7 @@ contract GameToken is ERC20, Ownable {
     mapping(address => Player) public players;
 
     constructor()
-        ERC20("Nikhil", "NK")
+        ERC20("Rohit", "RM")
         Ownable(msg.sender)
     {
         transferOwnership(msg.sender);
